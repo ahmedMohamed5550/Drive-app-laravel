@@ -1,0 +1,16 @@
+body{
+    background-color: #ddd;
+    color: black;
+}
+.card{
+    background-color: #bbb;
+    color: black;
+    padding: 20px;
+}
+.card-body{
+    background-color: #ddd;
+    color: black;
+}
+.form-group{
+    padding: 15px 0;
+}
